@@ -1,0 +1,1 @@
+from .model import Sparta_Ent
